@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiarumlibri0102taciuoft/historiarumlibri0102taciuoft_0007.png"; bbox 0 0 1843 3214; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 570 1000 1112 1049">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 570 1000 1112 1049">
+     <span class='ocr_line' id='line_1_1' title="bbox 570 1000 1112 1049; baseline -0.007 0"><span class='ocrx_word' id='word_1_1' title='bbox 570 1002 705 1049; x_wconf 82' lang='lat' dir='ltr'><strong>DEM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 742 1000 1112 1048; x_wconf 80' lang='lat' dir='ltr'>ANDENKEN</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 277 1232 1414 1327">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 277 1232 1414 1327">
+     <span class='ocr_line' id='line_1_2' title="bbox 277 1232 1414 1327; baseline -0.006 0"><span class='ocrx_word' id='word_1_3' title='bbox 277 1238 710 1327; x_wconf 78' lang='lat' dir='ltr'><strong>CARL</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 827 1232 1414 1322; x_wconf 72' lang='lat' dir='ltr'><strong>HALMS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 416 1530 1274 1580">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 416 1530 1274 1580">
+     <span class='ocr_line' id='line_1_3' title="bbox 416 1530 1274 1580; baseline -0.006 0"><span class='ocrx_word' id='word_1_5' title='bbox 416 1540 926 1580; x_wconf 71' lang='lat' dir='ltr'>HOCHVERDIENTEN</span> <span class='ocrx_word' id='word_1_6' title='bbox 960 1530 1274 1577; x_wconf 77' lang='lat' dir='ltr'><strong>FORDERERS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 190 1791 1507 1848">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 190 1791 1507 1848">
+     <span class='ocr_line' id='line_1_4' title="bbox 190 1791 1507 1848; baseline -0.005 0"><span class='ocrx_word' id='word_1_7' title='bbox 190 1802 418 1848; x_wconf 80' lang='lat' dir='ltr'>KRITIK</span> <span class='ocrx_word' id='word_1_8' title='bbox 455 1801 589 1848; x_wconf 86' lang='lat' dir='ltr'><strong>UND</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 628 1791 1026 1847; x_wconf 57' lang='lat' dir='ltr'>ERKLARUNG</span> <span class='ocrx_word' id='word_1_10' title='bbox 1066 1797 1196 1845; x_wconf 74' lang='lat' dir='ltr'><strong>DES</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1238 1795 1507 1844; x_wconf 79' lang='lat' dir='ltr'>TACITUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 730 2040 967 2067">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 730 2040 967 2067">
+     <span class='ocr_line' id='line_1_5' title="bbox 730 2040 967 2067; baseline -0.008 0"><span class='ocrx_word' id='word_1_12' title='bbox 730 2040 967 2067; x_wconf 71' lang='lat' dir='ltr'><strong>GEWIDMET.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
